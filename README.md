@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @getdatanow
+- 👋 Hi, I’m @getdatanow - We build custom web crawler.
 - 👀 I’m interested in building web scraping agency.
 - 🌱 I’m currently learning to build large scale web scraping platform.
 - 💞️ I’m looking to collaborate on 
