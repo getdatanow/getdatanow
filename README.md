@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @getdatanow - We build custom web crawler.
-- 👀 I’m interested in building web scraping agency.
-- 🌱 I’m currently learning to build large scale web scraping platform.
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me : getyourdatanow@gmail.com 
+- 👀 A web scraping agency.
+- 🌱 We are currently building large scale web scraping platform. 
+- 📫 How to reach me : getyourdatanow@gmail.com or support@getdatafor.me
 
 - ⚡ Fun fact: I run all my scrapers locally on my machine.
 
